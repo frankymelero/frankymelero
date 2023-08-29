@@ -30,17 +30,18 @@ Let's chat and explore how I can contribute to your team!
 ### My stack
 
 <p align="center">
-	<img title="HTML5" alt="HTML5" src="./imgs/html5.png" width="90" height="90" />
-    <img title="CSS" alt="CSS" src="./imgs/css.png" width="80" height="80" />   
-    <img title="JS" alt="JS" src="./imgs/js.png" width="70" height="70" /> 
-    <img title="NODE" alt="NODE" src="./imgs/node.png" width="80" height="80" />  
-    <img title="VUE" alt="VUE" src="./imgs/vue.png" width="70" height="70" />  
-    <img title="REACT" alt="REACT" src="./imgs/react.png" width="70" height="70" />  
-    <img title="NUXT" alt="NUXT" src="./imgs/nuxt.png" width="70" height="70" />  
-    <img title="MYSQL" alt="MYSQL" src="./imgs/mysql.png" width="80" height="80" />  
-    <img title="POSTGRESQL" alt="POSTGRESQL" src="./imgs/postgresql.png" width="70" height="70" />  
-    <img title="MONGO" alt="MONGO" src="./imgs/mongo.png" width="70" height="70" />  
-    <img title="GIT" alt="GIT" src="./imgs/git.png" width="70" height="70" />  
+	<img title="HTML5" alt="HTML5" src="./imgs/html5.png" width="60" height="60" />
+    <img title="CSS" alt="CSS" src="./imgs/css.png" width="60" height="60" />   
+    <img title="JS" alt="JS" src="./imgs/js.png" width="60" height="60" /> 
+    <img title="NODE" alt="NODE" src="./imgs/node.png" width="70" height="70" />  
+    <img title="VUE" alt="VUE" src="./imgs/vue.png" width="60" height="60" />  
+    <img title="REACT" alt="REACT" src="./imgs/react.png" width="60" height="60" />  
+    <img title="NUXT" alt="NUXT" src="./imgs/nuxt.png" width="60" height="60" />  
+    <img title="MYSQL" alt="MYSQL" src="./imgs/mysql.png" width="70" height="70" />  
+    <img title="POSTGRESQL" alt="POSTGRESQL" src="./imgs/postgresql.png" width="60" height="60" />  
+    <img title="MONGO" alt="MONGO" src="./imgs/mongo.png" width="60" height="60" />  
+    <img title="GIT" alt="GIT" src="./imgs/git.png" width="60" height="60" />  
+    <img title="PHP" alt="PHP" src="./imgs/php.png" width="60" height="60" />  
  
 </p>
 
