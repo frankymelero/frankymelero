@@ -1,4 +1,52 @@
-### Hi there 👋
+# Hey👋 I'm Franky, how are you doing?
+
+## About me
+
+🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
+
+I'm a full-stack developer with 2+ years of hands-on coding, committed to continuous growth.
+
+🔥 My Approach:
+
+- Currently conquering a 100-day coding challenge.
+- Expanding skills in TDD, clean code, design patterns, and Node.
+
+🔍 SEO Enthusiast:
+
+- Successfully own and manage a website with thousands of strategically positioned keywords.
+- Harnessing SEO insights to optimize web development projects for greater visibility.
+
+👯 Collaboration Ready:
+- Open to collaborating on JS back-end, front-end integration, and feature development.
+
+📫 Connect with Me:
+- Find me on LinkedIn to explore opportunities.
+
+⚡ More Than Code:
+- Musician with 2 LPs and 2 EPs, bringing creativity to coding.
+
+Let's chat and explore how I can contribute to your team!
+
+### My stack
+
+<p align="center">
+	<img title="HTML5" alt="HTML5" src="./imgs/html5.png" width="90" height="90" />
+    <img title="CSS" alt="CSS" src="./imgs/css.png" width="80" height="80" />   
+    <img title="JS" alt="JS" src="./imgs/js.png" width="70" height="70" /> 
+    <img title="NODE" alt="NODE" src="./imgs/node.png" width="80" height="80" />  
+    <img title="VUE" alt="VUE" src="./imgs/vue.png" width="70" height="70" />  
+    <img title="REACT" alt="REACT" src="./imgs/react.png" width="70" height="70" />  
+    <img title="NUXT" alt="NUXT" src="./imgs/nuxt.png" width="70" height="70" />  
+    <img title="MYSQL" alt="MYSQL" src="./imgs/mysql.png" width="80" height="80" />  
+    <img title="POSTGRESQL" alt="POSTGRESQL" src="./imgs/postgresql.png" width="70" height="70" />  
+    <img title="MONGO" alt="MONGO" src="./imgs/mongo.png" width="70" height="70" />  
+    <img title="GIT" alt="GIT" src="./imgs/git.png" width="70" height="70" />  
+ 
+</p>
+
+
+
+
 
 <!--
 **frankymelero/frankymelero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
