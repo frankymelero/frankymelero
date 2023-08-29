@@ -27,7 +27,9 @@ I'm a full-stack developer with 2+ years of hands-on coding, committed to contin
 
 Let's chat and explore how I can contribute to your team!
 
-### My stack
+<div style="text-align: center; font-size: 25px; margin-top: 25px;">
+   My stack
+</div>
 
 <p align="center">
 	<img title="HTML5" alt="HTML5" src="./imgs/html5.png" width="60" height="60" />
