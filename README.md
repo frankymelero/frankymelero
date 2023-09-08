@@ -1,6 +1,7 @@
 # Hey👋 I'm Franky, how are you doing?
 
 [My Portfolio](https://fmelero.dev)
+
 ## About me
 
 🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
@@ -18,7 +19,7 @@ I'm a full-stack developer with 2+ years of hands-on coding, committed to contin
 - Harnessing SEO insights to optimize web development projects for greater visibility.
 
 👯 Collaboration Ready:
-- Open to collaborating on JS back-end, front-end integration, and feature development.
+- Open to collaborating on JS based back-end, front-end integration, and feature development.
 
 📫 Connect with Me:
 - Find me on LinkedIn to explore opportunities.
