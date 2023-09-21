@@ -4,6 +4,8 @@
 
 [NEO searcher in Spanish](https://objetos-proximos-a-la-tierra.vercel.app/)
 
+[Plantilla Spa](https://spa-plantilla-nuxt.vercel.app/)
+
 ## About me
 
 🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
