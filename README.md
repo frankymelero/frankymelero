@@ -4,7 +4,7 @@
 
 [NEO searcher in Spanish](https://objetos-proximos-a-la-tierra.vercel.app/)
 
-[Plantilla Spa](https://spa-plantilla-nuxt.vercel.app/)
+[Plantilla Spa](https://spa-plantilla-nuxt.vercel.app/](https://nuxt-spa-template.vercel.app/)
 
 ## About me
 
