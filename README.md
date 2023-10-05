@@ -8,6 +8,9 @@
 
 [Npm package Dir tree logger for node](https://www.npmjs.com/package/dir-tree-logger)
 
+[Sudoku API](https://sudoku-api-ts.vercel.app)
+
+
 
 ## About me
 
