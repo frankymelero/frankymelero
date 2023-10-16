@@ -10,7 +10,6 @@
 
 [Sudoku API](https://sudoku-api-ts.vercel.app)
 
-[AI covering letter generator](https://ai-covering-letter.vercel.app)
 
 ## About me
 
