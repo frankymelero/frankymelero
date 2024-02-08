@@ -2,14 +2,7 @@
 
 [My Portfolio](https://fmelero.dev)
 
-[NEO searcher in Spanish](https://objetos-proximos-a-la-tierra.vercel.app/)
-
-[Spa Template](https://nuxt-spa-template.vercel.app/)
-
 [Npm package Dir tree logger for node](https://www.npmjs.com/package/dir-tree-logger)
-
-[Sudoku API](https://sudoku-api-ts.vercel.app)
-
 
 ## About me
 
