@@ -12,8 +12,7 @@ I'm a full-stack developer with 2+ years of hands-on coding, committed to contin
 
 🔥 My Approach:
 
-- Currently conquering a 100-day coding challenge.
-- Expanding skills in TDD, clean code, design patterns, and Node.
+- Expanding skills in TDD, clean code and design patterns.
 
 🔍 SEO Enthusiast:
 
