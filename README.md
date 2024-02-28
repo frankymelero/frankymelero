@@ -8,7 +8,7 @@
 
 🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
 
-I'm a full-stack developer with 2+ years of hands-on coding, committed to continuous growth.
+I'm a full-stack developer with 3+ years of hands-on coding.
 
 🔥 My Approach:
 
