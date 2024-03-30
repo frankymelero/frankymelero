@@ -1,9 +1,5 @@
 # Hey👋 I'm Franky, how are you doing?
 
-[My Portfolio](https://fmelero.dev)
-
-[Npm package Dir tree logger for node](https://www.npmjs.com/package/dir-tree-logger)
-
 ## About me
 
 🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
