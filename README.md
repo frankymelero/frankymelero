@@ -2,27 +2,17 @@
 
 ## About me
 
-🚀 Passionate Full-Stack Developer Seeking Next Challenge 🚀
-
-I'm a full-stack developer with 3+ years of hands-on coding.
+🚀I'm a full-stack developer with 4+ years of hands-on coding.🚀
 
 🔥 My Approach:
 
-- Expanding skills in TDD, clean code and design patterns.
-
-🔍 SEO Enthusiast:
-
-- Successfully own and manage a website with thousands of strategically positioned keywords.
-- Harnessing SEO insights to optimize web development projects for greater visibility.
+- Expanding skills in Data mining, data scrapping and web crawling.
 
 👯 Collaboration Ready:
 - Open to collaborating on JS based back-end, front-end integration, and feature development.
 
 📫 Connect with Me:
 - Find me on LinkedIn to explore opportunities.
-
-⚡ More Than Code:
-- Musician with 2 LPs and 2 EPs, bringing creativity to coding.
 
 Let's chat and explore how I can contribute to your team!
 
