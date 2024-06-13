@@ -4,13 +4,6 @@
 
 🚀I'm a full-stack developer with 4+ years of hands-on coding.🚀
 
-🔥 My Approach:
-
-- Expanding skills in Data mining, data scrapping and web crawling.
-
-👯 Collaboration Ready:
-- Open to collaborating on JS based back-end, front-end integration, and feature development.
-
 📫 Connect with Me:
 - Find me on LinkedIn to explore opportunities.
 
