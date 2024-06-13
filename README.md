@@ -4,6 +4,8 @@
 
 🚀I'm a full-stack developer with 4+ years of hands-on coding.🚀
 
+🌱 The more I learn, the less I know.
+
 📫 Connect with Me:
 - Find me on LinkedIn to explore opportunities.
 
