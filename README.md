@@ -2,7 +2,7 @@
 
 ## About me
 
-🚀I'm a full-stack developer with 4+ years of hands-on coding.🚀
+🚀I'm a developer with 4+ years of hands-on coding.🚀
 
 🌱 The more I learn, the less I know.
 
