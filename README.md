@@ -14,11 +14,9 @@ Let's chat and explore how I can contribute to your team!
 ## My Stack
 
 <p align="center">
-	<img title="HTML5" alt="HTML5" src="./imgs/html5.png" width="60" height="60" />
-    <img title="CSS" alt="CSS" src="./imgs/css.png" width="60" height="60" />   
+	  
     <img title="JS" alt="JS" src="./imgs/js.png" width="60" height="60" /> 
-    <img title="NODE" alt="NODE" src="./imgs/node.png" width="70" height="70" />  
-    <img title="REACT" alt="REACT" src="./imgs/react.png" width="60" height="60" />  
+    <img title="NODE" alt="NODE" src="./imgs/node.png" width="70" height="70" /> 
     <img title="MYSQL" alt="MYSQL" src="./imgs/mysql.png" width="70" height="70" />  
     <img title="PHP" alt="PHP" src="./imgs/php.png" width="60" height="60" />  
  
